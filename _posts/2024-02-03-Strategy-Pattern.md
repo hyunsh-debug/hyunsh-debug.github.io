@@ -1,6 +1,6 @@
 ---
 title: Strategy Pattern
-author: cotes
+author: hyunsh
 date: 2024-02-03 13:23:00 +0800
 categories: [Spring, StrategyPattern]
 ---
@@ -169,5 +169,5 @@ public class TemplateCallbackPatternTest {
 **정리**
 - 변하는 코드와 변하지 않는 코드를 분리하여 코드 사용 최소화.
 - 하지만, 템플릿을 적용하기 위해서 결국 원본 코드를 수정해야 한다.    
-  이를 해결하기 위해서는 [프록시]()에 대한 개념이 필요하다.
+  이를 해결하기 위해서는 [프록시](https://hyunsh-debug.github.io/)에 대한 개념이 필요하다.
 
