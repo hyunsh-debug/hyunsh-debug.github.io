@@ -1,6 +1,6 @@
 ---
 title: Strategy Pattern
-author: hyunsh
+author: cotes
 date: 2024-02-03 13:23:00 +0800
 categories: [Spring, StrategyPattern]
 ---

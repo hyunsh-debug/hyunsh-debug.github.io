@@ -5,11 +5,11 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+
 hyunsh:
   name: SeongHan Hyun
   twitter: test
   url: https://github.com/hyunsh-debug/
-
 cotes:
   name: Cotes Chung
   twitter: cotes2020
